@@ -1,4 +1,3 @@
-
 S = imread("C:\\Users\\navjo\\OneDrive\\Sea.jpeg");
 
 if size(S, 3) == 3
