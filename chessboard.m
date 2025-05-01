@@ -9,6 +9,6 @@ cb = checkerboard(blockSize, n/2, n/2) > 0.5;
 figure;
 
 imshow(cb);
-colormap([1 1 1; 0 0 0]);
+colormap([1 1 1; 0 0 0]);  % Define colormap: [white; black]
 axis off;
 title('Chessboard');
